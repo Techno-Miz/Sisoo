@@ -69,13 +69,15 @@
                       text-align: left;
                     "
                   >
+                  <a href="./index.html">
                     <img
-                      alt=""
-                      class="v-src-width v-src-max-width"
-                      src="https://assets.unlayer.com/projects/232260/1715369042651-SiSO-01.png"
-                      style="width: 13%; max-width: 13%"
-                      title=""
+                    alt=""
+                    class="v-src-width v-src-max-width"
+                    src="https://assets.unlayer.com/projects/232260/1715369042651-SiSO-01.png"
+                    style="width: 13%; max-width: 13%"
+                    title=""
                     />
+                  </a>
                   </div>
                 </div>
 
@@ -264,9 +266,9 @@
                         font-weight: 700;
                       "
                       >Rewards</a
-                    ><a
-                      href=""
-                      target="_self"
+                    >
+                    
+                    <a 
                       class="v-font-size v-layout-display"
                       style="
                         display: inline-block;
@@ -277,9 +279,13 @@
                         text-decoration: none;
                         font-weight: 700;
                       "
-                      >Learn more</a
+                      ><select onchange="if (this.value) window.location.href=this.value">
+                        <option value="">Learn More</option>
+                        <option value="Hazmat.html">Hazmat</option>
+                      </select>
+                    </a
                     ><a
-                      href=""
+                      href="./SignUp.html"
                       target="_self"
                       class="v-font-size v-layout-display"
                       style="
@@ -2688,7 +2694,11 @@
                       ></span
                       ><strong>LEARN MORE</strong
                       ><br />Consolidation<br />Limits of liability<br />Prohibited
-                      items<br />Hazmat<br />Dimensional weight
+                      items<br /> <a style="
+                      text-decoration: none;
+                      color: #383838;
+                      " 
+                      href="./Hazmat.html">Hazmat</a> <br />Dimensional weight
                     </p>
                   </div>
                 </div>
