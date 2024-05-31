@@ -496,7 +496,7 @@
       
       width: auto !important;
     }
-
+    
     #u_content_image_8 .v-src-max-width {
       max-width: 56% !important;
     }
@@ -1150,7 +1150,7 @@
 
     #u_content_image_9 .v-src-max-width {
       max-width: 50% !important;
-      border-radius: 25% !important;
+      border-radius: 0px 0px 50px 50px !important;
     }
 
     #u_content_image_8.v-container-padding-padding {
@@ -1618,7 +1618,7 @@
 
       #u_content_image_8 .v-src-max-width {
         max-width: 48% !important;
-        border-radius: 25% !important;
+        border-radius: 50px 50px 0px 0px !important;
       }
 
       #u_column_23 .v-col-border-radius {
@@ -3228,7 +3228,7 @@ body {
   }
 
   #u_content_image_8 .v-src-max-width {
-    max-width: 48% !important;
+    max-width: 50% !important;
   }
 
   #u_column_23 .v-col-border-radius {
