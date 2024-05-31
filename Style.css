@@ -578,7 +578,14 @@
     #u_column_31.v-col-background-color {
       background-color: #dfdfdf !important;
     }
-
+    #u_column_34.v-col-background-color {
+      background-color: #dfdfdf !important;
+      border-radius: 0px 0px 0px 0px !important;
+    }
+    #u_column_35.v-col-background-color {
+      background-color: #dfdfdf !important;
+      border-radius: 0px 0px 0px 0px !important;
+    }
     #u_row_14 .v-row-background-image--inner {
       background-position: center center !important;
       background-repeat: no-repeat !important;
@@ -1060,7 +1067,24 @@
       border-right: 4px solid #f9f9f9 !important;
       border-bottom: 4px solid #f9f9f9 !important;
     }
+    #u_column_3.bg-cllr{
+      background-color: #dfdfdf !important;
+      border-radius: 0px 0px 0px 0px !important;
+    }
 
+    #u_content_image_8.bg-cllr{
+      background-color: rgb(255,255,255) !important;
+      border-radius: 0px  !important;
+    }
+    #u_content_image_9.bg-cllr{
+      background-color: rgb(255,255,255) !important;
+      border-radius: 0px  !important;
+    }
+    #u_content_image_10.bg-cllr{
+      background-color: rgb(255,255,255) !important;
+      border-radius: 0px  !important;
+    }
+    
     #u_content_text_3.v-container-padding-padding {
       padding: 30px 10px !important;
     }
@@ -1071,7 +1095,14 @@
       border-right: 4px solid #f9f9f9 !important;
       border-bottom: 4px solid #f9f9f9 !important;
     }
-
+    #u_column_4.bg-cllr{
+      background-color: #dfdfdf !important;
+      border-radius: 0px 0px 0px 0px !important;
+    } 
+    #u_column_7.bg-cllr{
+      background-color: #dfdfdf !important;
+      border-radius: 0px 0px 0px 0px !important;
+    } 
     #u_content_text_2.v-container-padding-padding {
       padding: 20px 10px !important;
     }
@@ -1150,7 +1181,7 @@
 
     #u_content_image_9 .v-src-max-width {
       max-width: 50% !important;
-      border-radius: 0px 0px 50px 50px !important;
+      border-radius: 0px !important;
     }
 
     #u_content_image_8.v-container-padding-padding {
@@ -1592,6 +1623,11 @@
         border-radius: 100px 100px 0px 0px !important;
       }
 
+      #u_column_20.bg-cllr{
+        background-color: #dfdfdf !important;
+        border-radius: 0px 0px 0px 0px !important;
+      }
+
       #u_content_text_7.v-container-padding-padding {
         padding: 10px 42px !important;
       }
@@ -1618,7 +1654,7 @@
 
       #u_content_image_8 .v-src-max-width {
         max-width: 48% !important;
-        border-radius: 50px 50px 0px 0px !important;
+        border-radius: 0px !important;
       }
 
       #u_column_23 .v-col-border-radius {
