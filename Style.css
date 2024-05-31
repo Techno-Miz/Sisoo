@@ -1080,7 +1080,7 @@
     }
 
     #u_content_image_2 .v-src-max-width {
-      max-width: 28% !important;
+      max-width: 70% !important;
     }
 
     #u_content_image_2 .v-text-align {
@@ -3120,7 +3120,8 @@ body {
   }
 
   #u_content_image_12 .v-src-max-width {
-    max-width: 22% !important;
+    max-width: 50% !important;
+    border-radius: 20%;
   }
 
   #u_content_image_12 .v-text-align {
