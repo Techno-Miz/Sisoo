@@ -1158,6 +1158,9 @@
     #u_column_18 .v-col-border-radius {
       border-radius: 0px 0px 100px 100px !important;
     }
+    #u_column_18.bg--cllr{
+      border-radius: 0px !important;
+    }
 
     #u_content_text_6.v-container-padding-padding {
       padding: 10px 20px 45px !important;
