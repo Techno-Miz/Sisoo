@@ -552,6 +552,7 @@
 
     #u_content_image_6 .v-src-max-width {
       max-width: 81% !important;
+      border-radius: 25% !important;
     }
 
     #u_column_10 .v-col-border-radius {
@@ -1149,6 +1150,7 @@
 
     #u_content_image_9 .v-src-max-width {
       max-width: 50% !important;
+      border-radius: 25% !important;
     }
 
     #u_content_image_8.v-container-padding-padding {
@@ -1616,6 +1618,7 @@
 
       #u_content_image_8 .v-src-max-width {
         max-width: 48% !important;
+        border-radius: 25% !important;
       }
 
       #u_column_23 .v-col-border-radius {
@@ -3121,7 +3124,7 @@ body {
 
   #u_content_image_12 .v-src-max-width {
     max-width: 50% !important;
-    border-radius: 20%;
+    border-radius: 25% !important;
   }
 
   #u_content_image_12 .v-text-align {
