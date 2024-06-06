@@ -3257,11 +3257,11 @@ body {
     padding: 0px !important;
   }
 
-  #u_content_image_9 .v-src-width {
+  /* #u_content_image_9 .v-src-width {
     width: auto !important;
   }
 
-  /* #u_content_image_9 .v-src-max-width {
+  #u_content_image_9 .v-src-max-width {
     max-width: 46.7% !important;
   } */
 
@@ -3338,5 +3338,11 @@ body {
 
   #u_content_image_9 .v-src-max-width {
     max-width: 46.5% !important;
+  }
+}
+@media only screen and (min-width: 480px) {
+
+  #u_content_image_9 .v-src-max-width {
+    max-width: 41.5% !important;
   }
 }
