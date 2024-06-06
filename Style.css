@@ -3257,13 +3257,13 @@ body {
     padding: 0px !important;
   }
 
-  /* #u_content_image_9 .v-src-width {
+  #u_content_image_9 .v-src-width {
     width: auto !important;
   }
 
   #u_content_image_9 .v-src-max-width {
     max-width: 46.7% !important;
-  } */
+  }
 
   #u_content_image_8.v-container-padding-padding {
     padding: 0px !important;
@@ -3315,34 +3315,4 @@ body {
 }
 
 
- /* CSS rules for smartphones */
-@media only screen and (min-width: 375px) {
-
-  #u_content_image_9 .v-src-max-width {
-    max-width: auto !important;
-  }
-}
-@media only screen and (min-width: 412px) {
-
-  #u_content_image_9 .v-src-max-width {
-    max-width: 48.5% !important;
-  }
-}
-@media only screen and (min-width: 414px) {
-
-  #u_content_image_9 .v-src-max-width {
-    max-width: 48.5% !important;
-  }
-}
-@media only screen and (min-width: 430px) {
-
-  #u_content_image_9 .v-src-max-width {
-    max-width: 46.5% !important;
-  }
-}
-@media only screen and (min-width: 480px) {
-
-  #u_content_image_9 .v-src-max-width {
-    max-width: 41.5% !important;
-  }
-}
+ 
