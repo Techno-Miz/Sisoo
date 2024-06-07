@@ -1637,7 +1637,14 @@
         background-color: #dfdfdf !important;
         border-radius: 0px 0px 0px 0px !important;
       }
-
+      .ship-page-bg-cllr{
+        background-color: #dfdfdf !important;
+        border-radius: 0px 0px 0px 0px !important;
+      }
+      .ship-page-img-bg-cllr{
+        background-color: #ffffff !important;
+        border-radius: 0px 0px 0px 0px !important;
+      }
       #u_content_text_7.v-container-padding-padding {
         padding: 10px 42px !important;
       }
@@ -1665,6 +1672,10 @@
       #u_content_image_8 .v-src-max-width {
         max-width: 48% !important;
         border-radius: 50px 50px 0px 0px !important;
+      }
+      #u_content_image_8 .v-src-max-width- {
+        max-width: 48% !important;
+        border-radius: 0px 50px 0px 0px !important;
       }
 
       #u_column_23 .v-col-border-radius {
@@ -3188,6 +3199,9 @@ body {
   #u_content_text_29 .v-font-size {
     font-size: 20px !important;
   }
+  #u_content_text_29 .v-font-size- {
+    font-size: 14px !important;
+  }
 
   #u_content_text_29 .v-text-align {
     text-align: center !important;
@@ -3221,27 +3235,34 @@ body {
     text-align: center !important;
   }
 
-  #u_content_text_28.v-container-padding-padding {
+  /* #u_content_text_28.v-container-padding-padding {
     padding: 20px 1px 1px !important;
-  }
+  } */
 
   #u_content_text_28 .v-font-size {
-    font-size: 22px !important;
+    font-size: 14px !important;
   }
 
   #u_content_text_28 .v-text-align {
+    text-align: left !important;
+  }
+  #u_content_text_28 .v-text-align- {
     text-align: center !important;
+    font-size: 16px;
   }
 
-  #u_content_text_30.v-container-padding-padding {
+  /* #u_content_text_30.v-container-padding-padding {
     padding: 20px 1px 1px !important;
-  }
+  } */
 
   #u_content_text_30 .v-font-size {
-    font-size: 22px !important;
+    font-size: 14px !important;
   }
 
   #u_content_text_30 .v-text-align {
+    text-align: left !important;
+  }
+  #u_content_text_30 .v-text-align- {
     text-align: center !important;
   }
 
@@ -3262,7 +3283,7 @@ body {
   }
 
   #u_content_image_9 .v-src-max-width {
-    max-width: 46.7% !important;
+    width: 200px !important;
   }
 
   #u_content_image_8.v-container-padding-padding {
