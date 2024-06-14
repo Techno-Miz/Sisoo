@@ -653,6 +653,14 @@
     #u_content_image_18 .v-text-align {
       text-align: center !important;
     }
+    .overlap-imgs-left{
+      /* text-align: center !important; */
+      left: 0px !important;
+    }
+    .overlap-imgs-right{
+      /* text-align: center !important; */
+      right: 0px !important;
+    }
   }
 
 /* Bottom Section CSS Begins  */
